@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class stringreverse
+class string_reverse
 {
 public static void main(String args[])
 {
